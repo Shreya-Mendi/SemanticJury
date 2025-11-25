@@ -1,3 +1,15 @@
+---
+title: SemanticJury
+emoji: ⚖️
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # ⚖️ SemanticJury: Legal Search Engine with Citation Support
 
 SemanticJury is a semantic search engine designed for the legal domain. It allows users to query legal texts — such as case law, statutes, and court opinions — using **natural language**, and retrieves passages that are **semantically similar** or **citation-linked** to the query.
